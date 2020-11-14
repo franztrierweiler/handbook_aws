@@ -10,7 +10,7 @@ Création d'une instance Cloud9
 - Créer l'instance Cloud9 sur une machine ec2.
 - Créer d'abord l'instance eC2 (une nano 0,5 GB RAM peut suffire), avec connexion SSH (indépendant de Cloud9).
 - Créer l'instance Cloud9 en choisissant connexion via SSH.
-- Ajouter la clé publique créée par Cloud9 à la machine ec2 dans le fichier authorized_keys.
+- Ajouter la clé publique créée par Cloud9 à la machine ec2 dans le fichier authorized_keys de l'utilisateur ubuntu.
 
 Faire apparaître les fonctions lambda dans Cloud9
 - xxx
